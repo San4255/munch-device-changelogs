@@ -104,3 +104,12 @@ INTIAL BUILD!
 29. Added Touch Control.
 
 30. Fixed flicker issue
+ 
+12/04/2023
+
+1. drop viper4android alpha.
+2. add viper4android Repackaged you need to install apk only.
+3. nuke sturated colour profile.
+4. fixed qs & scrolling lags.
+
+
