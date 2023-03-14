@@ -112,4 +112,8 @@ INTIAL BUILD!
 3. nuke sturated colour profile.
 4. fixed qs & scrolling lags.
 
+14/03/2023
 
+1. fixed status bar padding issue.
+2. qs and scrolling lags now totally fixed.
+3. Various under the hood fixes.
